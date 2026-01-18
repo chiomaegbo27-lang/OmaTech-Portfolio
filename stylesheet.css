@@ -508,7 +508,18 @@ position: relative;
     width: 120px;
     height: 160px;
 }
-
+.main-text{
+    padding-top: 130px;
+    margin-top: 200px;
+}
+.main-text h2{
+    font-size: 60px;
+    line-height: 1;
+    text-align: center;
+}
+.main-text h2 span{
+    color: #0ef;
+}
 
 
 
