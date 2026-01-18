@@ -520,7 +520,10 @@ position: relative;
 .main-text h2 span{
     color: #0ef;
 }
-
+.portfolio-content{
+    display:grid:
+    grid-template-colums:repeat(auto-fit, minmax(359px, auto));
+}
 
 
 
