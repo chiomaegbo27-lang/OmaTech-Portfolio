@@ -522,7 +522,7 @@ position: relative;
 }
 .portfolio-content{
     display:grid;
-    grid-template-colums:repeat(auto-fit, minmax(359px, auto));
+    grid-template-columns:repeat(auto-fit, minmax(359px, auto));
 }
 
 
